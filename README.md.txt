@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/diagrams/executive-badge.svg.png"
+  <img src=""C:\Users\johnw\OneDrive\Documents\GitHub\cybersecurity-portfolio\assets\diagrams\executive-badge.svg.png""
        alt="Britz — Trusted Security Operator"
        width="420">
 </p>
