@@ -1,6 +1,18 @@
-<img align="left" src="\branding\executive-badge.svg.png"" width="110" alt="JW Britz Crest" style="margin-right: 15px;"/>
+<div style="display: flex; align-items: flex-start;">
+    <img src="./branding/executive-badge.svg.png" width="160" alt="JW Britz Crest" style="margin-right: 20px; margin-bottom: 0;">
+    <div>
+        <h1 style="color: #bfa640; font-family: 'Old English Text MT', 'Goudy Text', 'UnifrakturCook', serif; font-size: 3em; font-weight: normal; margin-bottom: 0.2em;">
+            Governance Charter
+        </h1>
+        <span style="display: block; color: #bfa640; font-family: 'Old English Text MT', 'Goudy Text', 'UnifrakturCook', serif; font-size: 2em; font-weight: normal; margin-top: 0;">
+            – Cybersecurity Portfolio
+        </span>
+    </div>
+</div>
+    </div>
+</div>
 
-# Governance Charter – Cybersecurity Portfolio
+<br>
 
 ---
 
