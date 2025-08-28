@@ -1,10 +1,11 @@
 <p align="center">
-  <img src=""C:\Users\johnw\OneDrive\Documents\GitHub\cybersecurity-portfolio\assets\diagrams\executive-badge.svg.png""
+  <img src="assets/diagrams/executive-badge.svg.png"
        alt="Britz — Trusted Security Operator"
        width="420">
 </p>
 
 <p align="center" style="font-family: 'Old English Text MT', 'UnifrakturCook', serif; font-size: 1.25em; color: goldenrod; margin-top: -10px;">
+<strong>Fortified by Governance, Driven by Integrity</strong>
   <strong>Fortified by Governance, Driven by Integrity</strong>
 </p>
 
@@ -96,5 +97,6 @@ This repository is engineered for **technical depth** *and* **executive clarity*
 
 **Maintained by:**  
 `John-William Britz` — `MR.`  
-LinkedIn: `<Your LinkedIn URL>` | Email: `JOHNWILLIAMALLORI@ICLOUD.COM` | Location: `JOHANNESBURG, SOUTH AFRICA`
-
+LinkedIn: `<Your LinkedIn URL>` 
+| Email: `JOHNWILLIAMALLORI@ICLOUD.COM` 
+| Location: `JOHANNESBURG, SOUTH AFRICA`
