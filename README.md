@@ -1,11 +1,9 @@
-<!-- Executive Badge -->
 <p align="center">
-  <img src="\branding\executive-badge.svg.png"
-       alt="Britz — Trusted Security Operator"
-       width="420" />
+  <img src="./branding/medieval_executive_badge.svg.png"
+       alt="Cybersecurity Professional Crest – BRITZ"
+       width="420">
 </p>
 
-<!-- Tagline -->
 <p align="center" style="font-family: 'Old English Text MT', 'UnifrakturCook', serif; font-size: 1.25em; color: goldenrod; margin-top: -10px;">
   <strong>Fortified by Governance, Driven by Integrity</strong>
 </p>
@@ -23,76 +21,49 @@ This repository is engineered for **technical depth** *and* **executive clarity*
 
 | Goal | Description |
 |------|-------------|
-| **Technical Mastery** | Showcasing end‑to‑end execution in ethical hacking, incident response, and systems hardening, with **verified evidence** and reproducible setups. |
-| **Leadership & Governance** | Clear governance layer with roadmaps, CEO feedback integration, and standards for operational hygiene. |
-| **Evidence Hygiene via CI/CD** | Automated workflows for integrity checks, PDF exports, link validation, and spellchecking — ensuring trust in every artifact. |
-| **Recruiter/CEO‑Friendly** | Executive summaries accompany all technical reports for non‑technical decision‑makers. |
+| **Technical Mastery** | End‑to‑end execution in ethical hacking, incident response, and systems hardening — with **verified evidence** and reproducible builds. |
+| **Leadership & Governance** | Enforced governance layer with roadmaps, CEO feedback loops, and operational hygiene policies. |
+| **Evidence Hygiene via CI/CD** | Automated integrity checks, PDF exports, link validation, and spellchecking — trust guaranteed. |
+| **Recruiter/CEO‑Friendly** | Executive summaries for non‑technical decision‑makers alongside technical reports. |
 
 ---
 
-## 🗺️ Repository Map
+## 🗺️ Repository Index
 
-| Section | Description | Contents |
-|---------|-------------|----------|
-| `labs/` | Hands‑on, platform‑specific lab work with reproducible configs. | TryHackMe, OverTheWire, PortSwigger, VM builds, SIEM detections. |
-| `projects/` | Major, multi‑phase builds. | Design docs, implementation, evidence, full reports. |
-| `writeups/` | Sanitized, recruiter‑ready case studies. | `exec-summary.md`, `writeup.md`, remediation guides. |
-| `iac/` | Infrastructure‑as‑Code deployments. | Vagrant, Docker‑ELK, Kubernetes configs. |
-| `governance/` | Strategy, leadership, and feedback tracking. | Roadmap, 30‑60‑90 plans, CEO feedback notes. |
-| `certifications/` | Verified skills & proofs. | PDF certs, skill mapping, verification links. |
-| `templates/` | Documentation skeletons for speed & consistency. | Lab, project, and executive summary templates. |
-| `assets/` | Visual polish for repo presentation. | Diagrams, badges, screenshots, logos. |
-| `.github/workflows/` | CI/CD automation. | Integrity checks, PDF exports, link & spell checks, CodeQL scans. |
-
----
-
-## 💼 Featured Work
-
-| Project / Lab | Category | Highlights |
-|---------------|----------|------------|
-| **Incident Response Simulation** | Blue Team | Full IR plan execution with forensics, evidence hashing, and exec report. |
-| **Web Application Pen Test** | Offensive Security | OWASP Top 10 findings, exploit PoCs, sanitized screenshots, mitigation plan. |
-| **ELK Stack SIEM Deployment** | Infrastructure Security | Dockerized ELK, custom detection rules, Kibana dashboards. |
+| Section | Description | Key Contents |
+|---------|-------------|--------------|
+| [`/governance/`](./governance) | Policies, frameworks, and audit artefacts. | Policies, onboarding rules, review logs. |
+| [`/labs/`](./labs) | Hands‑on, platform‑specific lab work. | Network, cloud, forensic labs with evidence. |
+| [`/incident-response/`](./incident-response) | Incident handling and playbooks. | IR reports, timelines, case evidence. |
+| [`/executive-summaries/`](./executive-summaries) | Board‑level briefs. | Quarterly and annual security summaries. |
+| [`/evidence/`](./evidence) | Sanitized, integrity‑verified proof. | Screenshots, configs, logs, reports. |
+| [`/branding/`](./branding) | Brand identity assets. | Crest, palette, typography. |
+| [`/ci-cd/`](./ci-cd) | Automation workflows. | YAML workflows, pipeline docs. |
+| [`/certifications/`](./certifications) | Verified achievements. | PDFs, transcripts, verification links. |
+| [`/platform-progress/`](./platform-progress) | Skill platform results. | TryHackMe, HTB, PortSwigger, etc. |
+| [`/tools/`](./tools) | Technical aids. | Scripts, configs, cheat sheets. |
+| [`/notes/`](./notes) | Research and methodology. | Threat intel, process docs. |
+| [`/screenshots/`](./screenshots) | Visual evidence store. | Diagrammatic & PoC screenshots. |
 
 ---
 
-## ⚙️ Tooling & Automation
-
-| Tool/Workflow | Purpose | Benefit |
-|---------------|---------|---------|
-| **GitHub Actions** | Run CI/CD on every push. | Prevents stale evidence & broken links. |
-| **Markdown → PDF Export** | Creates polished reports instantly. | Recruiter/CEO‑ready documents. |
-| **Integrity Check** | Verifies hashes of evidence files. | Ensures authenticity. |
-| **CodeQL Scan** | Analyzes IaC and scripts for vulnerabilities. | Elevates code security. |
-
----
-
-## 📈 Governance & Growth
-
-| Artifact | Description |
-|----------|-------------|
-| `roadmap.md` | Strategic direction for the portfolio’s next 12 months. |
-| `phase-tracker.md` | Real‑time progress tracking across phases. |
-| `ceo-feedback-notes.md` | Captures executive insights for iteration. |
-
----
-
-## 🧾 At‑A‑Glance Summary
+## 📊 Summary Table — Portfolio at a Glance
 
 | Pillar | Evidence in Repo |
 |--------|------------------|
-| **Reproducibility** | All labs/projects include configs, environment files, and setup guides. |
-| **Integrity** | CI‑verified hashes for all evidence artifacts. |
+| **Reproducibility** | Every lab/project ships with configs, environment files, and setup guides. |
+| **Integrity** | CI‑verified hashes for all evidence artefacts. |
 | **Executive Readability** | Every technical document paired with an `exec-summary.md`. |
-| **Governance** | Transparent roadmap, feedback integration, and standards docs. |
+| **Governance** | Transparent roadmap, feedback logs, and standards docs. |
 | **Automation** | CI/CD workflows enforce hygiene automatically. |
-| **Visual Polish** | Centralized, sanitized assets with professional branding. |
+| **Visual Polish** | Centralised, sanitised assets with consistent professional branding. |
 
 ---
 
 <p align="center">
-  <em>Building artifacts that meet the gold standard in operational hygiene, governance, and executive communication.</em>
+  <em>Building artefacts that meet the gold standard in operational hygiene, governance, and executive communication.</em>
 </p>
+
 
 ---
 
