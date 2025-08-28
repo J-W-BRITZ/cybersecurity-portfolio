@@ -1,0 +1,31 @@
+# 🔐 Security Policy — Vulnerability Reporting Process
+
+**Author:** JW Britz  
+**Effective Date:** 2025-08-28  
+**Scope:** All code, documentation, configurations, workflows, and artifacts stored in or linked from this repository.
+
+---
+
+## 1. Purpose
+
+This policy outlines how to report security vulnerabilities found in:
+- Code, scripts, and Infrastructure‑as‑Code (IaC) within this repo
+- Documentation or examples that could lead to insecure practices
+- Generated artifacts (e.g., PDFs, configs) that reveal sensitive information
+
+Our goal is to **protect integrity, confidentiality, and availability** of this repository’s content and any related systems.
+
+---
+
+## 2. If You Find a Vulnerability
+
+If you discover a **potential** security issue:
+- **Do NOT** create a public GitHub issue.
+- **Do NOT** discuss or share it in public forums or social media.
+
+Instead, contact me **privately** using:
+
+| Method | Address / Link | Notes |
+|--------|----------------|-------|
+| **Email** | [contact@yourdomain.com](mailto:contact@yourdomain.com) | Use PGP encryption if possible (see below). |
+| **PGP Public Key** | [`/governance/jwbritz-pgp.asc`](../governance/jwbritz-pgp.asc) | Fingerprint: `ABCD 1234 EFGH 5678 IJKL
