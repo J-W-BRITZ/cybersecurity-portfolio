@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="./branding/medieval_executive_badge.svg.png"
+  <img src="./branding/executive-badge.svg.png"
        alt="Cybersecurity Professional Crest – BRITZ"
        width="420">
 </p>
-
-<p align="center" style="font-family: 'Old English Text MT', 'UnifrakturCook', serif; font-size: 1.25em; color: goldenrod; margin-top: -10px;">
-  <strong>Fortified by Governance, Driven by Integrity</strong>
+<p align="center">
+  <strong style="font-size:1.5em; color:#bfa14a; text-shadow:0 1px 4px #222;">
+    Fortified by Governance, Driven by Integrity
+  </strong>
 </p>
 
 ---
