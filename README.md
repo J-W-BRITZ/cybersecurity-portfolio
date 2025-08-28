@@ -1,6 +1,6 @@
 <!-- Executive Badge -->
 <p align="center">
-  <img src="assets/diagrams/executive-badge.svg.png"
+  <img src="\branding\executive-badge.svg.png"
        alt="Britz — Trusted Security Operator"
        width="420" />
 </p>
