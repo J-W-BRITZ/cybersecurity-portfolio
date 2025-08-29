@@ -4,7 +4,7 @@
        width="120">
 </p>
 
-# Changelog
+# Executive Changelog & Release Record
 
 All notable changes to this project are documented here.  
 This log is the official record of execution: clear, controlled, and audit‑ready.
