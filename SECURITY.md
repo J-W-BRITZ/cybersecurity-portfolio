@@ -3,8 +3,16 @@
        alt="JW Britz — Trusted Security Operator Crest"
        width="160">
 </p>
+<div align="center">
 
-# 🔐 SECURITY POLICY — Vulnerability Reporting Process
+<h1 style="color:#bfa640; font-weight:bold; letter-spacing:1px;">
+  🔐 SECURITY POLICY
+</h1>
+<h2 style="color:#bfa640; font-weight:600;">
+  <strong>Vulnerability Reporting Process</strong>
+</h2>
+
+</div>
 
 **Author:** JW Britz  
 **Effective Date:** 2025‑08‑28  
